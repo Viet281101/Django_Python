@@ -1,8 +1,9 @@
 
 # [Django](https://www.djangoproject.com/) in [Python](https://www.python.org/)
 
-##### [Django](https://www.djangoproject.com/) is a full stack web framework that allows for rapid development of websites.
 [![alt text](image/django_python_icon.png)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
+
+##### [Django](https://www.djangoproject.com/) is a full stack web framework that allows for rapid development of websites.
 
 -----------------------------------------------------------
 #### Command settings _(Terminal, Shell)_:
@@ -26,4 +27,7 @@ cd mysite
 python3 manage.py runserver
 ```
 
-
+4) Start app in project: 
+```
+python3 manage.py startapp main
+```
