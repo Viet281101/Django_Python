@@ -1,0 +1,29 @@
+
+# [Django](https://www.djangoproject.com/) in [Python](https://www.python.org/)
+
+##### [Django](https://www.djangoproject.com/) is a full stack web framework that allows for rapid development of websites.
+[![alt text](image/django_python_icon.png)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
+
+-----------------------------------------------------------
+#### Command settings _(Terminal, Shell)_:
+
+1) Command install [Django](https://www.djangoproject.com/):
+[![alt text](image/django_icon.png)](https://www.djangoproject.com/)
+
+```
+pip3 install django
+```
+
+2) Create a _'mysite'_ project folder:
+```
+django-admin startproject mysite
+```
+
+3) Run server in _'mysite'_ project:
+```
+cd mysite
+
+python3 manage.py runserver
+```
+
+
