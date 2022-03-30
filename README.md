@@ -42,8 +42,11 @@ python3 manage.py migrate
 ```
 python3 manage.py makemigrations main
 ```
-- To make it apply 'main':
+- To make it apply 'main' just enter the command in step 5 again.
+
+
+7) To add something into the databases with Shell:
 ```
-python3 manage.py migrate
+python3 manage.py shell
 ```
 
